@@ -18,6 +18,8 @@ The repository contains the following files:
 - `Recipe_Popularity_Prediction.ipynb`: The Jupyter Notebook containing data validation, exploratory analysis, model development, evaluation, and business metrics analysis.
 - `Presentation.pdf`: A presentation summarizing the project, key findings, and recommendations.
 - `recipe_site_traffic_2212.csv`: The dataset used for the analysis.
+- `README.md`: This file, providing an overview and instructions for the project.
+- `LICENSE`: The file containing the MIT License details for the project.
 
 ## Key Findings
 
