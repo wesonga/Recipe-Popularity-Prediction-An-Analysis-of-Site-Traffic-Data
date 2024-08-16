@@ -15,9 +15,9 @@ The product management team currently selects recipes to feature on the homepage
 
 The repository contains the following files:
 
-- `notebook.ipynb`: The Jupyter Notebook containing data validation, exploratory analysis, model development, evaluation, and business metrics analysis.
-- `slides.pdf`: A presentation summarizing the project, key findings, and recommendations.
-- `dataset.csv`: The dataset used for the analysis.
+- `Recipe_Popularity_Prediction.ipynb`: The Jupyter Notebook containing data validation, exploratory analysis, model development, evaluation, and business metrics analysis.
+- `Presentation.pdf`: A presentation summarizing the project, key findings, and recommendations.
+- `recipe_site_traffic_2212.csv`: The dataset used for the analysis.
 
 ## Key Findings
 
